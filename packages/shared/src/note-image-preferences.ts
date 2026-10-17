@@ -1,4 +1,3 @@
-import { FONT_IDS } from "./font-catalog";
 import {
   NOTE_IMAGE_THEME_OPTIONS,
   type NoteImageActiveTheme,
@@ -31,7 +30,7 @@ export const DEFAULT_NOTE_IMAGE_PREFERENCES: NoteImagePreferences = {
 
 const choices = {
   theme: NOTE_IMAGE_THEME_OPTIONS,
-  fontStyle: ["auto", "kai", "serif", "sans", "mono", ...FONT_IDS],
+  fontStyle: ["auto", "kai", "serif", "sans", "mono", "smiley", "wenkai", "zhuque", "heavy", "puhui", "puhui-heavy", "youshe", "shuhei"],
   fontSize: ["sm", "md", "lg"],
   cardWidth: ["compact", "standard", "wide"],
   format: ["png", "jpeg"],
