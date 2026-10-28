@@ -2018,7 +2018,7 @@ export const enUS = {
     directory: "Backup folder",
     choose: "Choose…",
     frequency: "Frequency",
-    retention: "Keep",
+    retention: "Keep recent",
     copies: "{{count}} backups",
     intervals: {
       daily: "Daily",
@@ -2796,6 +2796,8 @@ export const enUS = {
     outline: "Outline",
     showOutline: "Show outline",
     hideOutline: "Hide outline",
+    collapseAllOutline: "Collapse all headings",
+    expandAllOutline: "Expand all headings",
     collapseOutlineHeading: "Collapse {{name}}",
     expandOutlineHeading: "Expand {{name}}",
   },

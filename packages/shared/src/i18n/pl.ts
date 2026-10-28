@@ -2007,7 +2007,7 @@ export const pl = {
     directory: "Folder kopii",
     choose: "Wybierz…",
     frequency: "Częstotliwość",
-    retention: "Zachowaj",
+    retention: "Zachowaj ostatnie",
     copies: "{{count}} kopii",
     intervals: {
       daily: "Codziennie",
@@ -2785,6 +2785,8 @@ export const pl = {
     outline: "Konspekt",
     showOutline: "Pokaż konspekt",
     hideOutline: "Ukryj konspekt",
+    collapseAllOutline: "Zwiń wszystkie nagłówki",
+    expandAllOutline: "Rozwiń wszystkie nagłówki",
     collapseOutlineHeading: "Zwiń {{name}}",
     expandOutlineHeading: "Rozwiń {{name}}",
   },

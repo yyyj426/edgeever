@@ -2018,7 +2018,7 @@ export const ru = {
     directory: "Папка резервных копий",
     choose: "Выбрать…",
     frequency: "Частота",
-    retention: "Хранить",
+    retention: "Хранить последние",
     copies: "Копий: {{count}}",
     intervals: {
       daily: "Ежедневно",
@@ -2796,6 +2796,8 @@ export const ru = {
     outline: "Оглавление",
     showOutline: "Показать оглавление",
     hideOutline: "Скрыть оглавление",
+    collapseAllOutline: "Свернуть все заголовки",
+    expandAllOutline: "Развернуть все заголовки",
     collapseOutlineHeading: "Свернуть {{name}}",
     expandOutlineHeading: "Развернуть {{name}}",
   },
